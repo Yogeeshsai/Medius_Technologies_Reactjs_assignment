@@ -1,0 +1,15 @@
+better-replica/
+  ├── components/
+  │   ├── Header.js
+  │   ├── Footer.js
+  │   ├── MortgageCalculator.js
+  ├── pages/
+  │   ├── _app.js
+  │   ├── index.js
+  │   ├── about-us.js
+  │   ├── mortgage-calculator.js
+  │   ├── start.js
+  ├── styles/
+  │   ├── global.css
+  └── public/
+      └── images/
